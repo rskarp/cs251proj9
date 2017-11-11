@@ -7,3 +7,6 @@ The GUI in this project was created over a span of multiple projects throughout 
 develop questions that I wanted to answer by using the existing elements of my GUI, and adding other elements if necessary. (See the
 ProcessAnalysisResults.pdf file in the Process, Analysis, and Results folder for more information about my chosen questions, process
 of finding the answers to the questions, and overall conclusions).
+
+
+To use my GUI, run the display.py file and open a CSV file containing the data set that you would like to analyze. Plot and analyze the data using the functions in the Command drop-down menu and the control panel on the right hand side of the display.
